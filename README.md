@@ -1,6 +1,6 @@
 # ProjetoFireFox
 
-## Ellen Beatriz Shen
+### Feito por Ellen Beatriz Shen
 
 Desenvolvimento uma ferramenta capaz de detectar e apresentar:
 - Conexões a domínios de terceira parte em uma navegação web;
