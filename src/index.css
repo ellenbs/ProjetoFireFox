@@ -1,0 +1,29 @@
+html, body {
+  width: 500px;
+  background-color:rgb(255, 255, 255);
+  padding: 0.2rem;
+}
+
+.name{
+  color:rgb(255, 0, 153);
+  display: flex;
+  justify-content: center;
+  height: 45px;
+  line-height: 10px;
+}
+
+.sub-title{
+  color: rgb(251, 132, 229);
+  height: 10px;
+}
+
+.text-section{
+  color: rgb(0, 0, 0);
+}
+
+.score{
+  text-align: center;
+  margin-top: 60px;
+  font-size: 60px;
+  color: green;
+}
